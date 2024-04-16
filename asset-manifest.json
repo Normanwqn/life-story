@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/life-story/static/css/main.08509be2.css",
-    "main.js": "/life-story/static/js/main.8b35d168.js",
+    "main.js": "/life-story/static/js/main.79b5a261.js",
     "static/js/453.bc506f58.chunk.js": "/life-story/static/js/453.bc506f58.chunk.js",
     "static/media/banner.jpg": "/life-story/static/media/banner.174582a7470947edeae7.jpg",
     "static/media/signature_eng.png": "/life-story/static/media/signature_eng.19372666b3528168e63d.png",
     "static/media/signature_chi.jpg": "/life-story/static/media/signature_chi.7ea408a38272ebc07dd3.jpg",
     "index.html": "/life-story/index.html",
     "main.08509be2.css.map": "/life-story/static/css/main.08509be2.css.map",
-    "main.8b35d168.js.map": "/life-story/static/js/main.8b35d168.js.map",
+    "main.79b5a261.js.map": "/life-story/static/js/main.79b5a261.js.map",
     "453.bc506f58.chunk.js.map": "/life-story/static/js/453.bc506f58.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.08509be2.css",
-    "static/js/main.8b35d168.js"
+    "static/js/main.79b5a261.js"
   ]
 }
